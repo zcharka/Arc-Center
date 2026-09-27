@@ -1,9 +1,5 @@
 # Arc Center
 
-<p align="center">
-  <img src="https://i.ibb.co/cc59HQRQ/logo.png" alt="ArcCenter" with="200" height="200"/>
-</p>
-
 **Arc Center** is a modular, dynamic widget loader application built with Python, GTK4, and Libadwaita. It serves as a centralized hub (control center) that dynamically loads, displays, and manages system utility widgets from a specific directory.
 
 Designed to be the core interface for the Arc OS/Tooling ecosystem, it features a robust localization system, safety locking for subprocesses, and a responsive user interface that respects GNOME system settings.
